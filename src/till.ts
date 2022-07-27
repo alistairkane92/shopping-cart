@@ -3,7 +3,7 @@ import { PriceList, ProductType } from ".";
 export class Till {
     protected priceList: PriceList;
 
-    constructor(priceList) {
+    constructor(priceList: PriceList) {
         this.priceList = priceList;
     }
 
