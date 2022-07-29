@@ -5,5 +5,6 @@ A small shopping cart code example with Typescript and Mocha adhering to OOP and
 ## To Run
 
 `npm ci`
+
 `npm test`
 
