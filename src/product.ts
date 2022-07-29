@@ -17,4 +17,8 @@ export class Product {
     public getPrice(): number {
         return this.price;
     }
+
+    public setPrice(price: number): void {
+        this.price = price;
+    }
 }
